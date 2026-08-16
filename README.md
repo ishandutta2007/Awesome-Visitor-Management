@@ -20,26 +20,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Envoy](https://envoy.com/)**  
-  Leading visitor management and workplace platform with polished iPad kiosk experiences, photo capture, NDA signing, host notifications (Slack/Teams), badge printing, and expanding desk/room capabilities.
-- **[Proxyclick](https://www.proxyclick.com/)** (now part of Eptura / Sign In Solutions ecosystem)  
-  Enterprise visitor management focused on multi-site deployments, approvals, watchlists, and integrations with workplace and HR systems.
-- **[HID Safe](https://www.hidglobal.com/)**  
-  Visitor and contractor management solution from HID, often integrated with physical access control and identity systems.
-- **[The Receptionist](https://thereceptionist.com/)**  
-  iPad-first visitor management system popular for fast deployment, two-way SMS, and straightforward reception workflows.
-- **[SwipedOn](https://www.swipedon.com/)**  
-  Visitor and contractor sign-in platform with strong mobile and tablet experiences, used across offices and industrial sites.
-- **[Veris Welcome](https://www.veris.in/)**  
-  Visitor management solution offering digital check-in, pre-registration, and workplace arrival experiences.
-- **[Honeywell Forge / Sine](https://www.honeywell.com/)**  
-  Visitor and contractor management capabilities within Honeywell’s connected buildings and industrial offerings — strong for sites with induction and safety requirements.
-- **[Archie](https://archieapp.co/)**  
-  Modern workplace platform that includes visitor management alongside desk and room booking for hybrid offices.
-- **[VisitUs](https://visitus.com/)** / **[Teamgo](https://www.teamgo.co/)**  
-  Additional visitor and workplace arrival platforms serving mid-market and multi-location needs.
-- **LobbyTrack, Greetly, iLobby / FacilityOS**, and related tools  
-  Broader ecosystem of freemium and enterprise visitor management solutions frequently evaluated alongside the platforms above.
+
+| Platform | Description | Pricing (Starting) | Free Tier / Trial Limit |
+|----------|-------------|--------------------|-------------------------|
+| **[Envoy](https://envoy.com/)** | Leading visitor management and workplace platform with polished iPad kiosk experiences, photo capture, NDA signing, host notifications (Slack/Teams), badge printing, and expanding desk/room capabilities. | $99/month | 100 entries/month (Basic Free Plan) |
+| **[Proxyclick](https://www.proxyclick.com/)** | Enterprise visitor management focused on multi-site deployments, approvals, watchlists, and integrations with workplace and HR systems. (Now part of Eptura / Sign In Solutions ecosystem) | $100/month | 15-day free trial |
+| **[HID Safe](https://www.hidglobal.com/)** | Visitor and contractor management solution from HID, often integrated with physical access control and identity systems. | $50/month | Consultation only (No free trial) |
+| **[The Receptionist](https://thereceptionist.com/)** | iPad-first visitor management system popular for fast deployment, two-way SMS, and straightforward reception workflows. | $52.50/month | 15-day free trial |
+| **[SwipedOn](https://www.swipedon.com/)** | Visitor and contractor sign-in platform with strong mobile and tablet experiences, used across offices and industrial sites. | $52.50/month | 14-day free trial |
+| **[Veris Welcome](https://www.veris.in/)** | Visitor management solution offering digital check-in, pre-registration, and workplace arrival experiences. | $50/month | Consultation only (No free trial) |
+| **[Honeywell Forge / Sine](https://www.honeywell.com/)** | Visitor and contractor management capabilities within Honeywell’s connected buildings and industrial offerings — strong for sites with induction and safety requirements. | $69/month | 14-day free trial |
+| **[Archie](https://archieapp.co/)** | Modern workplace platform that includes visitor management alongside desk and room booking for hybrid offices. | $109/month | 14-day free trial |
+| **[VisitUs](https://visitus.com/)** | Additional visitor and workplace arrival platforms serving mid-market and multi-location needs. | $29/month | 7-day free trial (Free Core Plan available) |
+| **[Teamgo](https://www.teamgo.co/)** | Additional visitor and workplace arrival platforms serving mid-market and multi-location needs. | $29/month | 30-day free trial |
+| **[LobbyTrack](https://www.lobbytrack.com/)** | Broader ecosystem of freemium and enterprise visitor management solutions frequently evaluated alongside the platforms above. | $50/month | 100 visitors/month (Starter Free Plan) |
+| **[Greetly](https://www.greetly.com/)** | Broader ecosystem of freemium and enterprise visitor management solutions frequently evaluated alongside the platforms above. | $99/month | 14-day free trial |
+| **[iLobby / FacilityOS](https://ilobby.com/)** | Broader ecosystem of freemium and enterprise visitor management solutions frequently evaluated alongside the platforms above. | $199/month | 14-day free trial |
 
 ## Open-Source GitHub Projects
 - **[FrontDesk](https://github.com/prodstarter/frontdesk)**  
