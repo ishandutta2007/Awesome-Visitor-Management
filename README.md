@@ -1,6 +1,6 @@
 # Awesome-Visitor-Management
 
-# Top Visitor Management Tools Ecosystem
+## Top Visitor Management Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Digital Reception, Visitor Check-In/Check-Out, Badge Printing, Host Notifications, Pre-Registration & Workplace Security*
 **Last updated: August 2026**
