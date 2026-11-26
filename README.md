@@ -46,6 +46,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Greetly](https://www.greetly.com/)** | Broader ecosystem of freemium and enterprise visitor management solutions frequently evaluated alongside the platforms above. | $99/month | 14-day free trial | $10M+ |
 | **[VisitUs](https://visitus.com/)** | Additional visitor and workplace arrival platforms serving mid-market and multi-location needs. | $29/month | 7-day free trial (Free Core Plan available) | $5M+ |
 | **[Teamgo](https://www.teamgo.co/)** | Additional visitor and workplace arrival platforms serving mid-market and multi-location needs. | $29/month | 30-day free trial | $5M+ |
+| **[GoAccess](https://www.goaccess.com/visitor-management)** | Hosted visitor management for HOAs and gated communities. Residents send digital guest passes, gatehouse staff record arrivals, and community managers review access reports. | Custom quote | Demo on request | Undisclosed |
 
 ## 🔓 Open-Source GitHub Projects
 - **[visitormanagement](https://github.com/neozhu/visitormanagement)** [![GitHub stars](https://img.shields.io/github/stars/neozhu/visitormanagement?style=social&color=white)](https://github.com/neozhu/visitormanagement/stargazers)  
